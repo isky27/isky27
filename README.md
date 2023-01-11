@@ -28,10 +28,11 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="isky27" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="isky27" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isky27&theme=great-gatsby&hide_border=false" alt="isky27" />
+  <img align="center"  height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="isky27" />
+ </p>
+<p align="center"> <img align="center"  height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="isky27" />
+</p>
+<p align="center"><img align="center"  height="200px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=isky27&theme=great-gatsby&hide_border=false" alt="isky27" />
 </p>
 
 
