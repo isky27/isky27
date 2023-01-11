@@ -33,7 +33,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isky27&" alt="isky27" /></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanghamitra0591&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanghamitra0591&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghamitra0591&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isky27&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isky27&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
