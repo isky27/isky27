@@ -28,6 +28,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isky27" alt="isky27" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isky27&show_icons=true&locale=en" alt="isky27" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isky27&count_private=true&show_icons=true" alt="isky27" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isky27&" alt="isky27" /></p>
