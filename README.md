@@ -19,8 +19,8 @@
 - 💬 Ask me about **JavaScript, MERN, Redux, NextJS**
 
 - 📫 How to reach me **gaganjindal50@gmail.com**
-<!-- 
-- 📄 Know about me [https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing](https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing) -->
+
+- 📄 Know about me <a blank=_title href="https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing" target="blank"><img align="center" src="https://skillicons.dev/icons?i=resume" alt="isky27" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
