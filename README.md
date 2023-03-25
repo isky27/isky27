@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at <a href="https://isky27.github.io" target="blank">Portfolio</a>
-
 - 💬 Ask me about **JavaScript, MERN, Redux, NextJS**
+
+- 👨‍💻 All of my projects are available at <a href="https://isky27.github.io" target="blank">Portfolio</a>
 
 - 📫 How to reach me **gaganjindal50@gmail.com**
 
