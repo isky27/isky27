@@ -16,16 +16,16 @@
 
 - 💬 Ask me about **JavaScript, MERN, Redux, NextJS**
 
-- 👨‍💻 All of my projects are available at <a href="https://isky27.github.io" target="blank">Portfolio</a>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://isky27.github.io" target="blank">Portfolio</a> -->
 
 - 📫 How to reach me **gaganjindal50@gmail.com**
 
-- 📄 Know about me <a href="https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing" target="blank">Resume</a>
+<!-- - 📄 Know about me <a href="https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isky27" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="isky27" height="40" width="40" /></a>
-</p>
+</p> -->
 
 
 <h3 align="center">Languages and Tools:</h3>
